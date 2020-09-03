@@ -38,7 +38,7 @@ namespace Xamarin.CommunityToolkit.Sample.ViewModels.Behaviors
 				typeof(UriValidationBehaviorPage),
 				nameof(UriValidationBehavior),
 				AppResources.UriValidationShortDescription
-			),  
+			),
 			new SectionModel(
 				typeof(MatchBehaviorPage),
 				nameof(MatchBehavior),
